@@ -5,6 +5,15 @@
   <title>01_全局function模式</title>
 </head>
 <body>
-
+    <script type="text/javascript" src="./module1.js"></script>
+    <script type="text/javascript" src="./module2.js"></script>
+    <script type="text/javascript">
+        // 命名冲突 ， 污染全局命名空间
+        foo() // module2 foo() atguigu2222   覆盖了module1 中foo()函数
+        bar()
+        // 数据不安全
+        var data = "abc"
+        foo()  // module2 foo() abc   修改了 module 中的变量的值
+    </script>
 </body>
 </html>

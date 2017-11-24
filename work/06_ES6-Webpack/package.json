@@ -1,6 +1,9 @@
 {
   "name": "es6-webpack",
   "version": "1.0.0",
+  "scripts": {
+    "build": "webpack src/main.js dist/bundle.js"
+  },
   "dependencies": {
     "jquery": "^3.2.1"
   }

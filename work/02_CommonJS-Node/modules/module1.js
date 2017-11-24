@@ -1,5 +1,5 @@
 /*
-*  TODO module.export 来暴露
+*  TODO module.export = {} 来暴露对象  -- 返回的是对象
 * */
 module.exports = {
     foo:function () {
