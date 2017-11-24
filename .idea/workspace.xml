@@ -2,36 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dad46c9f-5bd2-404a-af8a-eae46f84dfba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/01_全局function模式/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/01_全局function模式/module2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/01_全局function模式/test1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/02_namespace模式/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/02_namespace模式/module2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/02_namespace模式/test2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/03_IIFE模式/myModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/03_IIFE模式/test3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/04_IIFE模式增强/jquery-1.10.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/04_IIFE模式增强/myModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/04_IIFE模式增强/test4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/05_模块化带来的问题/jquery-1.10.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/05_模块化带来的问题/myModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/01_modular/05_模块化带来的问题/test5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_CommonJS-Node/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_CommonJS-Node/modules/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_CommonJS-Node/modules/module2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_CommonJS-Node/modules/module3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/03_CommonJS-Browserify/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/03_CommonJS-Browserify/src/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/03_CommonJS-Browserify/src/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/03_CommonJS-Browserify/src/module2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/03_CommonJS-Browserify/src/module3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/src/libs/jquery-1.10.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/src/libs/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/src/modules/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/04_AMD-RequireJS/src/modules/module2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/05_CMD-SeaJS/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/05_CMD-SeaJS/src/libs/sea-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/05_CMD-SeaJS/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/06_ES6-Webpack/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/06_ES6-Webpack/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/06_ES6-Webpack/src/module1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/06_ES6-Webpack/src/module2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/06_ES6-Webpack/src/module3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/教程/07_npm.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,11 +29,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="07_npm.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/教程/07_npm.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4060">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="929">
+              <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -86,11 +69,29 @@
         <option value="$PROJECT_DIR$/work/04_AMD-RequireJS/src/modules/module1.js" />
         <option value="$PROJECT_DIR$/work/04_AMD-RequireJS/src/main.js" />
         <option value="$PROJECT_DIR$/work/04_AMD-RequireJS/src/modules/module2.js" />
+        <option value="$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/b.js" />
+        <option value="$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/a.js" />
+        <option value="$PROJECT_DIR$/work/05_CMD-SeaJS/src/main.js" />
+        <option value="$PROJECT_DIR$/work/05_CMD-SeaJS/index.html" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/src/module1.js" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/src/module2.js" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/src/module3.js" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/package.json" />
+        <option value="$PROJECT_DIR$/教程/06_ES6模块化_Webpack.md" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/index.html" />
+        <option value="$PROJECT_DIR$/work/06_ES6-Webpack/src/main.js" />
+        <option value="$PROJECT_DIR$/教程/07_npm.md" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -98,6 +99,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/work/02_CommonJS-Node/node_modules" />
     <handled-path value="$PROJECT_DIR$/work/03_CommonJS-Browserify/node_modules" />
+    <handled-path value="$PROJECT_DIR$/work/06_ES6-Webpack/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
@@ -144,11 +146,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="教程" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS_Modular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS_Modular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="work" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="04_AMD-RequireJS" />
+              <option name="myItemId" value="06_ES6-Webpack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -176,16 +192,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="F:/Node.js/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\04_AMD-RequireJS\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\教程" />
+      <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\05_CMD-SeaJS\src\modules" />
+      <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\05_CMD-SeaJS\src\libs" />
       <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\04_AMD-RequireJS\src\libs" />
       <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\03_CommonJS-Browserify\src" />
-      <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work\02_CommonJS-Node\modules" />
-      <recent name="G:\WebstormProjects\WebstormProjects\JS_Modular\work" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,12 +303,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511487908989</updated>
-      <workItem from="1511487910463" duration="8834000" />
+      <workItem from="1511487910463" duration="17401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8834000" />
+    <option name="totallyTimeSpent" value="17401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="1" width="2564" height="1370" extended-state="0" />
@@ -351,9 +371,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -385,9 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -505,8 +521,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4060">
+        <state relative-caret-position="406">
+          <caret line="77" column="13" lean-forward="false" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/05_CMD-SeaJS/src/libs/sea-debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/05_CMD规范_SeaJS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="34" column="7" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/05_CMD-SeaJS/src/modules/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/05_CMD-SeaJS/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/05_CMD-SeaJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/src/module3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/src/module2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/06_ES6模块化_Webpack.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="81" column="19" lean-forward="false" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/src/module1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/06_ES6-Webpack/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#106#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/07_npm.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="929">
+          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
           <folding />
         </state>
       </provider>
